@@ -43,14 +43,14 @@ This is a Streamlit-based dashboard for analyzing NAS (National Health/Patient) 
 git clone https://github.com/KruthikaTS/Ai_intern.git
 cd Ai_intern
 
-3. *Create a virtual environment:*
+2. *Create a virtual environment:*
 python -m venv venv
 On Windows: venv\Scripts\activate
 
-4. *Install dependencies:*
+3. *Install dependencies:*
 pip install -r requirements.txt
 
-5. *Run the Streamlit app:*
+4. *Run the Streamlit app:*
 streamlit run app_streamlit.py
 
 
