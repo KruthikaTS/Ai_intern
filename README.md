@@ -1,4 +1,4 @@
-# NAS Data Analysis Dashboard
+# Healthcare Data Analysis Dashboard
 
 This is a Streamlit-based dashboard for analyzing Healthcare Datasets. It allows users to upload one or multiple CSV/XLSX files and provides interactive visualizations for diagnoses, medications, images, referrals, and demographic stratifications.
 
